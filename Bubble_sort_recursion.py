@@ -26,6 +26,6 @@ class Solution:
 
 
 obj = Solution()
-nums = [3, 1, 7, 4, 5, 1, 9, 11]
+nums = [1,0,2,1,0]
 
 print(obj.bubbleSort(nums, len(nums)))
