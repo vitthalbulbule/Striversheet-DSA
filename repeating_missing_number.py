@@ -29,4 +29,4 @@ class Solution:
 
 
 ob = Solution()
-print(ob.findMissingRepeatingNumbers(nums=[3,5,4,1,1]))
+print(ob.findMissingRepeatingNumbers(nums=[[9,1,7],[8,9,2],[3,4,6]]))
